@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">TestProject</string>
     <string name="action_settings">Settings</string>
-    <string name="random_string">RandomString</string>
 </resources>
